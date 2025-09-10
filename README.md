@@ -1,8 +1,3 @@
-ChatGPT said:
-
-Perfect ✅ A strong README.md will make your repo look professional and hackathon-ready.
-Here’s a complete README.md tailored for your SIH project (SIH-25092):
-
 🌿 MindCare – Digital Mental Health & Psychological Support System
 📌 Problem Statement: SIH-25092 | Category: Software
 
